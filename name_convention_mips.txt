@@ -6,7 +6,7 @@ Descriere a abrevierilor folosite pentru cele 5 stagii de procesare:
 	EX ---------- instruction Execution;
 	MEM --------- instruction Memoring;
 	WB ---------- Write back
-Cele de mai sus se vor utiliza in denumirea semanlelor, pentru a fi clar din ce stagiu provine un semnal.
+Cele de mai sus se vor utiliza in denumirea semnalelor, pentru a fi clar din ce stagiu provine acesta.
 Semanlele tipurile de "date" wire si reg se va include "wire" si "reg" in numele semnalului 
 	ex:  ID_wire_exemplu
 	     ID_reg_exemplu
