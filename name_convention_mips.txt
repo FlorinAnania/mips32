@@ -11,4 +11,4 @@ Semanlele tipurile de "date" wire si reg se va include "wire" si "reg" in numele
 	ex:  ID_wire_exemplu
 	     ID_reg_exemplu
 
-Exceptii de la conventie:
+Exceptii de la conventie: regA regB, Forward_en,Clk, Reset
